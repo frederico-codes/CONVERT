@@ -1,7 +1,6 @@
 # Convert
 
-![Cover do projeto](./img/Cover (2).png
-)
+![Cover do projeto](./img/Cover%20(2).png)
 
 Uma pequena aplicação web de conversão de moedas que transforma valores em Dólares, Euros ou Libras para Reais.
 
